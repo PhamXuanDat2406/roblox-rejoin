@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
-REPO_RAW_BASE="__REPLACE_RAW_BASE__"
+REPO_RAW_BASE="https://raw.githubusercontent.com/PhamXuanDat2406/roblox-rejoin/main"REPO_RAW_BASE="__REPLACE_RAW_BASE__"
 TOOL_DIR="$HOME/roblox-rejoin"
 
 pkg update -y
